@@ -1,3 +1,4 @@
+// Напишите метод, который принимает на вход строку (String) и определяет является ли строка палиндромом (возвращает boolean значение).
 public class Palindrom {
     public static void main(String[] args) {
         System.out.println(isPalindrom("а роза упала на лапу азора"));
