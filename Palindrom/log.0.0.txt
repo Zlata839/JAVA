@@ -1,2 +1,0 @@
-мая 31, 2024 11:32:45 PM Task05 writeFileNamesToFile
-INFO: ОШИБКА
